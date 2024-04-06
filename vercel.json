@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "/#pricing",
+      "destination": "/privacy-policy",
       "permanent": false
     }
   ],
