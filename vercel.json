@@ -5,7 +5,6 @@
       "destination": "/privacy-policy",
       "permanent": false
     }
-    // Add more specific redirects as needed
   ],
   "rewrites": [
     {
