@@ -1,9 +1,16 @@
 {
-  "redirects": [],
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/privacy-policy",
+      "permanent": false
+    }
+    // Add more specific redirects as needed
+  ],
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://flexidomain.in/privacy-policy"
+      "destination": "https://flexidomain.in/$1"
     }
   ]
 }
